@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of a deep learning model for image recoloring using Generative Adversarial Networks (GANs). The project aims to generate realistic color images from grayscale input images. Two different GAN architectures, namely Vanilla GAN and Wasserstein GAN (WGAN), were implemented and compared for their effectiveness in image recoloring.
+This repository contains the implementation of a deep learning model for image recoloring using Generative Adversarial Networks (GANs). The project aims to generate realistic color images from grayscale input images. Two different GAN architectures, namely Vanilla GAN and Wasserstein GAN (WGAN), were implemented and compared for their effectiveness in image recoloring. Also you can find project report and presentation (https://prezi.com/view/ObruNRcb45EbWcOqX41I/)
 
 ## Key Features
 
